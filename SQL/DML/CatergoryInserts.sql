@@ -1,0 +1,11 @@
+INSERT INTO catergory (career_cat_name) VALUES ('Administrative and Office Support');
+INSERT INTO catergory (career_cat_name) VALUES ('Business and Financial Operations');
+INSERT INTO catergory (career_cat_name) VALUES ('Community and Social Services');
+INSERT INTO catergory (career_cat_name) VALUES ('Education');
+INSERT INTO catergory (career_cat_name) VALUES ('Facility Construction and Maintenance');
+INSERT INTO catergory (career_cat_name) VALUES ('Health Care');
+INSERT INTO catergory (career_cat_name) VALUES ('Legal');
+INSERT INTO catergory (career_cat_name) VALUES ('Management');
+INSERT INTO catergory (career_cat_name) VALUES ('Public Safety');
+INSERT INTO catergory (career_cat_name) VALUES ('Science Technology Engineering And Mathematics');
+INSERT INTO catergory (career_cat_name) VALUES ('Other');

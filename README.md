@@ -1,0 +1,2 @@
+# About This Project
+This project uses a Python web crawler to scrape all publicly accessible Sate of Florida (_SOF_) jobs. These jobs are written to a Postgres database. There are plans to develop a Flask front end to this database. This project is a passion project. This project was created as a learning opportunity to learn more about Linux and Postgres while showing others what options are available within the SOF employment system. 
